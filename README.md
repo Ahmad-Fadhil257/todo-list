@@ -1,5 +1,7 @@
 # Taskly - Premium Todo List
 
+![Taskly Preview](no%20api.png)
+
 A simple, modern, and premium Todo List application built with React and Vite.
 
 ## Features
@@ -16,10 +18,3 @@ A simple, modern, and premium Todo List application built with React and Vite.
 1. Clone the repository.
 2. Run `pnpm install` or `npm install`.
 3. Run `pnpm dev` or `npm run dev`.
-
-## Application Preview
-
-Here is a preview of the premium Todo List application interface:
-
-![Taskly Preview](no%20api.png)
-
